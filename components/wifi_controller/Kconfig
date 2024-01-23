@@ -13,8 +13,8 @@ menu "Wi-Fi Controller"
             SSID of management AP
 
         config MGMT_AP_PASSWORD
-            string "Management AP Password"
-            default "mgmtadmin"
+            string "123"
+            default "12345678"
             help
             Password for management AP WPA2 (minimum 8 characters)
 
